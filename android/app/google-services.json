@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1041413063996",
+    "project_id": "book-a-bite-5d6de",
+    "storage_bucket": "book-a-bite-5d6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041413063996:android:85f02380aa59575edeca39",
+        "android_client_info": {
+          "package_name": "com.bookabite.book_a_bite_resto_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041413063996-n5psgcliniiccvfongch7apsnbtodbji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBG3GoWQf3eF2y7pOY0BiSnu1tMsYq9Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041413063996-h31linlre1ofq1v8ajhqst9cffqcp346.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041413063996-0h5hirm90725lh1ohu7iq8ls2spit5va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bookabite.bookABiteResto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041413063996:android:ae9c75c39d81249bdeca39",
+        "android_client_info": {
+          "package_name": "com.bookabite.book_a_bite_user_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041413063996-31tbb8je9j2koh3reu4hvscbls9jt7kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookabite.book_a_bite_user_main",
+            "certificate_hash": "8693868630e9202b5c7c9ba7d0d226dea6d5e9ae"
+          }
+        },
+        {
+          "client_id": "1041413063996-n5psgcliniiccvfongch7apsnbtodbji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBG3GoWQf3eF2y7pOY0BiSnu1tMsYq9Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041413063996-h31linlre1ofq1v8ajhqst9cffqcp346.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041413063996-0h5hirm90725lh1ohu7iq8ls2spit5va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bookabite.bookABiteResto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

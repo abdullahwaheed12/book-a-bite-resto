@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>797481843131-g9t3tr42klgiqknmcc87fh1s76b71bei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.797481843131-g9t3tr42klgiqknmcc87fh1s76b71bei</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>797481843131-6bsapjmtle481ub0v0ta4olookmc2n69.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGpVD1ej7txHqoI9pjWtY9c2jtp-ldMzA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>797481843131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bookabite.bookABiteResto</string>
+	<key>PROJECT_ID</key>
+	<string>book-a-bite-practice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>book-a-bite-practice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:797481843131:ios:6da1d110fafbeab0cb6c9e</string>
+</dict>
+</plist>
